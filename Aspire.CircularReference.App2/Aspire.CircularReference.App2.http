@@ -1,0 +1,6 @@
+@Aspire.CircularReference.App2_HostAddress = http://localhost:5201
+
+GET {{Aspire.CircularReference.App2_HostAddress}}/hello/
+Accept: application/json
+
+###
